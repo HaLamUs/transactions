@@ -26,8 +26,11 @@ Change x2 speed and highest quality
 ## Reference
 https://github.com/shahbaz17/magic-didtoken
 
-## Author 
-Lam Ha 
+## Author
+
+This repo was developed by [@lamha](https://github.com/HaLamUs). 
+Follow or connect with me on [my LinkedIn](https://www.linkedin.com/in/lamhacs). 
+
 
 ## License
 
